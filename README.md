@@ -1,2 +1,2 @@
 # Digital-Clock
-This project is a simple digital clock built using HTML, CSS, and JavaScript that displays the exact current time in Indian Standard Time (IST).
+This project is a simple digital clock built using HTML, CSS, and JavaScript that displays the exact current time in Indian Standard Time (IST). The clock updates every second and shows the time in a clear hours : minutes : seconds format. It runs directly in the browser without any backend and continuously fetches the current IST time using JavaScript’s Date functions. The design is clean, minimal, and easy to integrate into any webpage or project, making it a great beginner-friendly example of real-time DOM manipulation and time-based JavaScript functionality.
